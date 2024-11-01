@@ -1,0 +1,14 @@
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\bin\Debug\net8.0\LinearExpressions2.exe
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\bin\Debug\net8.0\LinearExpressions2.deps.json
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\bin\Debug\net8.0\LinearExpressions2.runtimeconfig.json
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\bin\Debug\net8.0\LinearExpressions2.dll
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\bin\Debug\net8.0\LinearExpressions2.pdb
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.AssemblyInfoInputs.cache
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.AssemblyInfo.cs
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.csproj.CoreCompileInputs.cache
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.dll
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\refint\LinearExpressions2.dll
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.pdb
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\LinearExpressions2.genruntimeconfig.cache
+C:\Users\Volodymyr\source\repos\LinearExpressions1\LinearExpressions2\obj\Debug\net8.0\ref\LinearExpressions2.dll
